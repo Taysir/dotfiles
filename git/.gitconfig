@@ -1,0 +1,9 @@
+[core]
+	autocrlf = false
+	quotepath = false
+	safecrlf = true
+[credential]
+	helper = wincred
+[include]
+	path = .gitconfig.d/user.gitconfig
+	path = .gitconfig.d/proxy.gitconfig
