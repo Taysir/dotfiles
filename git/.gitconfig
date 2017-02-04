@@ -7,3 +7,4 @@
 [include]
 	path = .gitconfig.d/user.gitconfig
 	path = .gitconfig.d/proxy.gitconfig
+	path = .gitconfig.d/secret.gitconfig
