@@ -1,0 +1,29 @@
+root = true
+
+# General
+[*]
+charset = utf-8
+end_of_line = lf
+indent_size = 4
+indent_style = space
+insert_final_newline = true
+tab_width = 4
+trim_trailing_whitespace = true
+
+[*.cmd]
+end_of_line = crlf
+
+[*.{css,html,js,json}}]
+indent_size = 2
+
+[*.md]
+trim_trailing_whitespace = false
+
+[.git{attribute,config,ignore}]
+indent_style = tab
+
+[Makefile]
+indent_style = tab
+
+[Vagrantfile]
+indent_size = 2
