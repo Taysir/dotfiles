@@ -1,0 +1,15 @@
+{
+  "extensions.autoUpdate": true,
+  "files.autoSave": "onFocusChange",
+  "editor.fontFamily": "Fira Code",
+  "editor.fontSize": 14,
+  "editor.fontLigatures": true,
+  "workbench.colorTheme": "Solarized Dark",
+  "editor.renderWhitespace": "boundary",
+  "stylelint.enable": true,
+  "css.validate": false,
+  "composer.executablePath": "C:\\ProgramData\\ComposerSetup\\bin\\composer.bat",
+  "phpformatter.composer": true,
+  "window.zoomLevel": 0,
+  "workbench.iconTheme": "vs-seti"
+}
