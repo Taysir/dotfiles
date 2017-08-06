@@ -1,3 +1,2 @@
-/.gitconfig.d/secret.gitconfig
-/.gitconfig.d/user.d/*
-!/.gitconfig.d/user.d/template-user.gitconfig
+/.gitconfig.d/*
+!/.gitconfig.d/template-*
