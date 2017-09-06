@@ -3,6 +3,7 @@ codezombiech.gitignore
 DavidAnson.vscode-markdownlint
 dbaeumer.vscode-eslint
 EditorConfig.EditorConfig
+fantasytyx.tortoise-svn
 felixfbecker.php-debug
 felixfbecker.php-intellisense
 felixfbecker.php-pack

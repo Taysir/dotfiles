@@ -2,8 +2,6 @@
 	autocrlf = false
 	quotepath = false
 	safecrlf = true
-[credential]
-	helper = wincred
 [user]
 	name = Taysir of Rabiah
 	email = Taysir@users.noreply.github.com

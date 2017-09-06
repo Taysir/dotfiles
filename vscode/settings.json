@@ -8,6 +8,9 @@
   "extensions.autoUpdate": true,
   "files.autoGuessEncoding": true,
   "files.autoSave": "onFocusChange",
+  "files.exclude": {
+    "**/.vagrant": true
+  },
   "phpformatter.composer": true,
   "stylelint.enable": true,
   "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
