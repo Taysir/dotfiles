@@ -1,6 +1,10 @@
 @echo off
 setlocal
 
+SET GLOBAL_CONFIG_DIR=%USERPROFILE%\.config\git\
+if exist %GLOBAL_CONFIG_DIR% rd /S /Q %GLOBAL_CONFIG_DIR%
+mklink /D %GLOBAL_CONFIG_DIR% %~dp0%config\
+
 SET GITCONFIG_FILE=%USERPROFILE%\.gitconfig
 if exist %GITCONFIG_FILE% del %GITCONFIG_FILE%
 mklink %GITCONFIG_FILE% %~dp0%.gitconfig
