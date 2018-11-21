@@ -1,8 +1,11 @@
 7zip
+cdrtools
+curl
 ffmpeg
 jetbrains-toolbox
 jq
 ln
+make
 msys2
 openjdk
 packer
