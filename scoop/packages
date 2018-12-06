@@ -1,5 +1,6 @@
 7zip
 cdrtools
+composer
 curl
 ffmpeg
 jetbrains-toolbox
@@ -14,5 +15,6 @@ ruby
 sourcetree
 sudo
 vagrant
+virtualbox-np
 vscode
 win32-openssh
